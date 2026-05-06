@@ -107,6 +107,16 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.m3u8
 #EXTINF:-1,Cinemax HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.m3u8
+#EXTINF:-1,Arirang
+https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
+#EXTINF:-1,Asian Food Network
+https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
+#EXTINF:-1,DW
+https://liveh12.vtvprime.vn/hls/DW/03.m3u8
+#EXTINF:-1,Discovery HD
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.m3u8
+#EXTINF:-1,Warner TV HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.m3u8
 #EXTINF:-1,Cbeebies
 Cbeebies Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
