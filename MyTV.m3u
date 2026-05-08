@@ -136,10 +136,10 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1,Dreamworks HD
 Dreamworks Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
-#EXTINF:-1,https://share.google/images/tDy8zi9pMOaMv0xR9 HBO
+#EXTINF:-1,HBO
 HBO Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1,https://share.google/images/oeO8o6sQqGEtUPJIi Cinemax
+#EXTINF:-1,Cinemax
 Cinemax Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #EXTINF:-1,DMAX HD
