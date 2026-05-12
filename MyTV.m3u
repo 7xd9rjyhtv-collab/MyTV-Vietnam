@@ -103,9 +103,9 @@ https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1,SCTV Phim Tông Hôp HD
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-id="hbo" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO HD
 https://tv.ddns.vn/tv/hbo/index.m3u8
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://i.imgur.com/c8crJfA.png", Cinemax HD
 https://tv.ddns.vn/tv/cinemax/index.m3u8
 #EXTINF:-1,Arirang HD
 https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
@@ -136,10 +136,10 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1,Dreamworks HD
 Dreamworks Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
-#EXTINF:-1,HBO
+#EXTINF:-1 tvg-id="hbo" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO
 HBO Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1,Cinemax
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://i.imgur.com/c8crJfA.png", Cinemax
 Cinemax Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #EXTINF:-1,DMAX HD
@@ -191,9 +191,9 @@ https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1,HTVC Plus HD
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1,HBO SD (No Longer Available)
+#EXTINF:-1 tvg-id="hbo" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO SD (No Longer Available)
 https://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1,Cinemax SD (No Longer Available)
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://i.imgur.com/c8crJfA.png", Cinemax SD (No Longer Available)
 https://fl1.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1,HGTV SD
 https://fl1.moveonjoy.com/HGTV/index.m3u8
