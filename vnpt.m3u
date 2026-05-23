@@ -8,7 +8,7 @@ https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1,VTV3 HD
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1,VTV4 HD
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-29/manifest/VTV4_HD/master.m3u8?timestamp=1779535686&token=072f72d10d548f001e71aaf83c431b3c&wmkid=0&uid=3631255
 #EXTINF:-1,VTV5 HD
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1,VTV5 Tây Nam Bô HD
@@ -26,7 +26,7 @@ https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1,BOX MOVIE 1 HD
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 #EXTINF:-1,BOX HITS HD
-https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
 #EXTINF:-1,CNA HD
 https://liveh12.vtvprime.vn/hls/CAN/03.m3u8
 #EXTINF:-1,CNBC HD
