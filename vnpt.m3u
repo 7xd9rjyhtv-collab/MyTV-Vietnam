@@ -150,7 +150,7 @@ Warner TV Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1,AXN
 AXN Vietnam (1080p)
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+https://sgclient.duckdns.org/source/tv360.m3u8?id=281
 #EXTINF:-1,BBC Earth HD
 BBC Earth Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
