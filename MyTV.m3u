@@ -422,3 +422,12 @@ https://live.fptplay53.net/epzhd1/htv8hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp", HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="kixhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/zWcUAdb.png", Kix HD
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+
+#EXTINF:-1 tvg-id="kbsworldhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7DqgELX.png", KBS World HD
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png", History
+https://liveh34.vtvprime.vn/hls/HISTORY/02.m3u8
