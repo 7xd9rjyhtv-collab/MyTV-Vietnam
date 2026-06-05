@@ -503,3 +503,9 @@ https://livevlisctcdnw.seenow.vn/mean/HAPPYKIDS/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/INTHEBOX/manifest.mpd
+
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Asu5pE9.png", Arirang
+https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
+
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png", CNBC
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
