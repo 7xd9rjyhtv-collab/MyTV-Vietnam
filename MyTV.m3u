@@ -509,3 +509,10 @@ https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png", CNBC
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+
+#EXTINF:-1 tvg-id="animax" group-title="Quốc Tế" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png", Animax
+#EXTVLCOPT:http-user-agent="CloudTV"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
